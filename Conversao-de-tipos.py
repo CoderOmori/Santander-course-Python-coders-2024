@@ -8,7 +8,7 @@ print(numero1 + numero2)
 
 'print(10+idade)'             #erro na operação 'int' + 'str'
 
-print(idade,type(idade))    # class str
+print(idade,type(idade))      #class str
 
 idade_inteira = int(idade)
 
@@ -19,8 +19,8 @@ print(idade_inteira, type(idade_inteira))
 #float(): converte em float
 #bool(): converte em booleano
 
-# altura = (input ('Informe a sua altura:)      #recebe a resposta em str
+# altura = (input ('Informe a sua altura:)          #recebe a resposta em str
 
-altura = float (input ('Informe a sua altura:')) #converte a resposta em float
+  altura = float (input ('Informe a sua altura:'))  #converte a resposta em float
 
 print(altura,type(altura))
